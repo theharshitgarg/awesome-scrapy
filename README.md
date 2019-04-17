@@ -123,3 +123,5 @@
 ### Book
 
 * [Learning Scrapy](https://www.amazon.com/dp/B0166Y6Z70/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* [Learning Scrapy_Book Download](http://sufuq.com/books/python/Learning%20Scrapy.pdf)
+
